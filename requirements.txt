@@ -1,0 +1,8 @@
+streamlit
+huggingface_hub
+requests
+pillow
+google-generativeai
+numpy
+scipy
+gtts
