@@ -126,7 +126,7 @@ def main():
     
     # Customer Care Button
     if st.sidebar.button("Customer Care"):
-        webbrowser.open("customer_care.html")
+        webbrowser.open("https://swetha5021.github.io/CustomerSupportChat/")
 
 if __name__ == "__main__":
     main()
